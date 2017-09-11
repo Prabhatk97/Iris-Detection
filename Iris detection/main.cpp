@@ -11,7 +11,7 @@ using namespace cv;
 
 int main()
 {
-	Mat src = imread("blueeye.jpg", CV_LOAD_IMAGE_COLOR), tmp;
+	Mat src = imread("blueeye.jpg", CV_LOAD_IMAGE_GRAYSCALE), tmp;
 
 	imshow("Source", src);
 
