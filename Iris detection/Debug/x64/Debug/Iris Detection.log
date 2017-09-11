@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\shubhi\documents\visual studio 2017\projects\iris detection\iris detection\main.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Iris Detection.vcxproj -> C:\Users\Shubhi\documents\visual studio 2017\Projects\Iris Detection\x64\Debug\Iris Detection.exe
+  Iris Detection.vcxproj -> C:\Users\Shubhi\documents\visual studio 2017\Projects\Iris Detection\x64\Debug\Iris Detection.pdb (Partial PDB)
